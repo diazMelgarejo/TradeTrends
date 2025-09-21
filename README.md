@@ -277,14 +277,13 @@ freqtrade backtesting --strategy TradeTrendsStrategy --timerange 20240101-202508
 - Multi-coin bot support
 - Web-based platform
 
-## Advantages Over TrendSpider
-
-✅ **Cost**: Completely free vs $53-223/month
-✅ **Privacy**: Runs locally, data stays private
-✅ **Customization**: Full source code access
-✅ **Community**: Large open-source communities
-✅ **Integration**: Easy to integrate with DeFi protocols
-✅ **State Resistance**: Not dependent on centralized services
+## Advantages:
+✅ **Cost**: Completely free vs $53-223/month<br />
+✅ **Privacy**: Runs locally, data stays private<br />
+✅ **Customization**: Full source code access<br />
+✅ **Community**: Large open-source communities<br />
+✅ **Integration**: Easy to integrate with DeFi protocols<br />
+✅ **State Resistance**: Not dependent on centralized services<br />
 ✅ **Crypto Focus**: Built specifically for crypto trading
 
 ## Next Steps
